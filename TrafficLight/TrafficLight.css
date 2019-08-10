@@ -1,0 +1,51 @@
+body{
+  text-align: center;
+}
+
+#square{
+  display: inline-block;
+  height: 550px;
+  width: 200px;
+  background: #3f4148
+}
+
+#redLight{
+  position: relative;
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+  background: red;
+  border-radius: 50%;
+  top: 25px;
+  padding: 25px 25px 25px 25px;
+  transition: background 500ms;
+}
+
+#yellowLight{
+  position: relative;
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+  background: yellow;
+  border-radius: 50%;
+  top: 50px;
+  padding: 25px 25px 25px 25px;
+  transition: background 500ms;
+}
+
+#greenLight{
+  position: relative;
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+  background: green;
+  border-radius: 50%;
+  top: 75px;
+  padding: 25px 25px 25px 25px;
+  transition: background 500ms;
+}
+
+.control{
+  position: relative;
+  padding: 5px;
+}
