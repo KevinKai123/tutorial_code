@@ -1,1 +1,1 @@
-This is our tutorial code!
+This is our tutorial code! coding is fun!
