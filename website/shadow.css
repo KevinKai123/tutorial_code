@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+}
+
+.text{
+    font: bold 30px Century Gothic;
+    text-shadow: rgb(110, 110, 110) 3px 3px 5px;
+
+}
+#box1{
+    display: block;
+    width: 500px;
+    margin: 50px auto;
+    padding: 15px;
+    text-align: center;
+    border: 1px solid blue;
+}
+
+#box2{
+    display: block;
+    width: 500px;
+    margin: 50px auto;
+    padding: 15px;
+    text-align: center;
+    border: 1px solid red;
+    background: -webkit-linear-gradient(45deg, black, white);
+    -webkit-box-shadow: rgba(110,110,110,.7) 11px 11px 11px;
+}
+
+#box3{
+    display: block;
+    width: 500px;
+    margin: 50px auto;
+    padding: 15px;
+    text-align: center;
+    border: 1px solid green;
+    background: -webkit-radial-gradient(center, circle, blue 0%, green 50%);
+    -webkit-border-radius: 25px;
+    -webkit-box-shadow: rgba(110,110,110,.7) 11px 11px 11px;
+}
+
