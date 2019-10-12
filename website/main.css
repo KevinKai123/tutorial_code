@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    padding-bottom: 10px;
+}
+
+#note{
+    font: 15px Tahoma
+}
+
+li{
+margin-left: 20px;
+font: 15px Tahoma
+}
